@@ -1,0 +1,77 @@
+name: Alex T.
+title: 全栈开发者 / 创意工程师
+avatar: https://example.com/avatar.jpg
+
+status:
+  indicator: 正在构建开源工具
+  timezone: UTC+8
+  response: 通常 12 小时内回复
+
+about:
+  location: 台北, 台湾
+  summary: 喜欢做产品，爱折腾系统，写前端也写后端，愿一生学习。
+  methodology: 最小原型，快速迭代
+  focus: 自运行服务・开源社区・低耦合架构
+  languages:
+    - name: 中文
+      level: 母语
+    - name: 英语
+      level: 流利
+    - name: 日语
+      level: 入门
+
+experience:
+  years: "5 年"
+  projects: "12 个"
+
+techstack:
+  frontend:
+    - name: HTML
+      level: expert
+    - name: Tailwind CSS
+      level: expert
+    - name: JavaScript
+      level: advanced
+    - name: Vue.js
+      level: intermediate
+  backend:
+    - name: Node.js
+      level: advanced
+    - name: Python
+      level: intermediate
+    - name: PostgreSQL
+      level: intermediate
+    - name: Redis
+      level: beginner
+  legend:
+    expert: 精通
+    advanced: 熟练
+    intermediate: 熟悉
+    beginner: 入门
+
+focus:
+  - title: DevToolKit
+    type: 自托管工具包
+    date: 2024 年 Q4
+    description: 面向开发者的一站式脚手架与工具链集合
+    tags:
+      - CLI
+      - YAML
+      - DX
+
+contacts:
+  email: alex@example.com
+  socials:
+    github: https://github.com/demo-user
+    telegram: https://t.me/example
+    x: https://x.com/alex_dev
+
+metrics:
+  - label: 项目
+    value: 12+
+  - label: 年限
+    value: 5+
+
+meta:
+  updated: 2025-06-09
+  version: v1.0
