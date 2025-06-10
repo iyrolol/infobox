@@ -3,6 +3,15 @@ import path from 'path'
 import ejs from 'ejs'
 import yaml from 'js-yaml' 
 
+const publicDir = path.join(process.cwd(), 'public')
+
+try {
+  await fs.access(publicDir)
+} catch {
+  console.log('创建 public/ 目录...')
+  await fs.mkdir(publicDir, { recursive: true })
+}
+
 const pkg = JSON.parse(await fs.readFile('package.json', 'utf-8'))
 
 
