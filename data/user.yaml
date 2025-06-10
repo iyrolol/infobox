@@ -1,0 +1,75 @@
+name: Kevin Z.
+title: 独立开发者 / 构架爱好者
+avatar: https://zkn.moe/profile.jpeg
+
+status:
+  indicator: 专注于个人项目
+  timezone: 欧洲中部时区
+  response: 2-3小时内回复
+
+meta:
+  version: v1.0
+
+focus:
+  - title: has.so & Atament Infra
+    type: 自行托管・分布式系统
+    date: 预计 2025 年第四季度
+    description: 能被自己部署、调度、连接起来的服务
+    tags:
+      - 架构优先
+      - DNS
+
+about:
+  location: 萨莱诺, 意大利
+  summary: 喜欢构建自己能掌握的系统。多数时候和 DNS、分布式架构、基础设施打交道。
+  methodology: 写得少，跑得稳
+  focus: 自己运行的服务・模块化系统
+  languages:
+    - name: 意大利语
+      level: 母语
+    - name: 中文
+      level: 流利
+    - name: 英语
+      level: 入门
+
+experience:
+  years: "3+年"
+  projects: "5+项目"
+
+techstack:
+  frontend:
+    - name: HTML
+      level: advanced
+    - name: Tailwind
+      level: intermediate
+    - name: JavaScript
+      level: intermediate
+    - name: React
+      level: beginner
+  backend:
+    - name: Node.js
+      level: advanced
+    - name: PHP
+      level: advanced
+    - name: MySQL
+      level: intermediate
+    - name: MongoDB
+      level: intermediate
+  legend:
+    expert: 精通
+    advanced: 常用
+    intermediate: 熟悉
+    beginner: 入门
+
+contacts:
+  email: kevin@zkn.app
+  socials:
+    github: https://github.com/1zkn
+    telegram: https://t.me/notnames
+    x: https://x.com/zknmoe
+
+metrics:
+  - label: 项目
+    value: 5+
+  - label: 年
+    value: 3+
